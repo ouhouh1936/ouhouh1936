@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=EH_GitHub&fontSize=90&fontColor=fff" />
 
-- A goal without a plan is just a wish. -- Antoine De Saint-Exupéry
 
 ### Views 🔎
 [![ouhouh1936](https://github-profile-trophy.vercel.app/?username=ouhouh1936&theme=onedark)](https://github.com/ouhouh1936)
@@ -19,8 +18,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
  </p>
  <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
