@@ -11,8 +11,8 @@
 
           
 ###                                🐶 oeh's 🐶
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmssssgk@gmail.com)](mailto:dmssssgk@gmail.com)
-[![instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dmssssgk/)](https://www.instagram.com/dmssssgk/)
+[![ouhouh1936's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarudals&show_icons=true&theme=default)](https://github.com/ouhouh1936/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarudals&layout=compact&show_icons=true&theme=default)](https://github.com/ouhouh1936/github-readme-stats)
 
 ###                               🐶 Language to learn 🐶
 
