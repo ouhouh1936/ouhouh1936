@@ -10,8 +10,8 @@
 
           
 ###                                🐶 oeh's 🐶
-
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmssssgk@gmail.com)](mailto:dmssssgk@gmail.com)&nbsp;
+[![instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dmssssgk/)](https://www.instagram.com/dmssssgk/)
 ###                               🐶 Language to learn 🐶
 
 <p align="center">
