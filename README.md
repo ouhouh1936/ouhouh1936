@@ -4,14 +4,13 @@
 
 
 ### Views 🔎
-[![ouhouh1936's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarudals&show_icons=true&theme=default)](https://github.com/ouhouh1936/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarudals&layout=compact&show_icons=true&theme=default)](https://github.com/ouhouh1936/github-readme-stats)
+[![ouhouh1936's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouhouh1936&show_icons=true&theme=default)](https://github.com/ouhouh1936/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouhouh1936&layout=compact&show_icons=true&theme=default)](https://github.com/ouhouh1936/github-readme-stats)
 
 
           
 ###                                🐶 oeh's 🐶
-[![ouhouh1936's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarudals&show_icons=true&theme=default)](https://github.com/ouhouh1936/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarudals&layout=compact&show_icons=true&theme=default)](https://github.com/ouhouh1936/github-readme-stats)
+
 
 ###                               🐶 Language to learn 🐶
 
