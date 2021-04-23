@@ -1,6 +1,6 @@
 ## oeh's GitHub
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=190&section=header&text=%20%20Eunha's!&fontAlign=50&fontAlignY=30&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=190&width=190&section=header&text=%20%20Eunha's!&fontAlign=50&fontAlignY=30&fontSize=90&fontColor=000000)
 
 
 
