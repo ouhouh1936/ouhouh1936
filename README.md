@@ -1,6 +1,7 @@
 ## oeh's GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=EH_GitHub&fontSize=90&fontColor=0b0b0b" />
+
+![header](https://capsule-render.vercel.app/api?text=Eunha's%World!&fontSize=20&rotate=-30)
 
 
 ### Views 🔎
