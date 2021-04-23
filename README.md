@@ -1,7 +1,7 @@
 ## oeh's GitHub
 
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
-![header](https://capsule-render.vercel.app/api?text=Eunha's%World!&fontSize=90&rotate=-90)
+![header](https://capsule-render.vercel.app/api?text=Eunha's&animation=fadeIn)
+
 
 
 ### Views 🔎
